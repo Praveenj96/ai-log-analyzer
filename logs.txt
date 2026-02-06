@@ -1,0 +1,7 @@
+INFO 2024-02-01 User logged in
+INFO 2024-02-01 File uploaded successfully
+ERROR 2024-02-01 Database connection failed
+INFO 2024-02-01 User logged out
+WARNING 2024-02-01 High memory usage detected
+ERROR 2024-02-01 Timeout while calling API
+INFO 2024-02-01 Backup completed
